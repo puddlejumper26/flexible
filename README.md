@@ -1,2 +1,1 @@
-# flexible
-React 13
+# @headlessui/reactcloudinary jsonwebtoken @types/jsonwebtoken graphql-request next-auth
