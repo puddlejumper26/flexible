@@ -4,7 +4,7 @@ import { NavLinks } from "@/constants";
 import AuthProvider from "./AuthProvider";
 
 function Navbar() {
-  let session = {};
+  let session = null;
   return (
     <nav className="flexBetween navbar">
       <div className="flex-1 flexStart gap-10">
